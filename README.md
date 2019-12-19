@@ -1,5 +1,8 @@
 # whoisathome
 Networking for Connected Devices Assignment
+
+Video URL - https://youtu.be/WUFSqo_syLc
+
 The scope of this project was to develop a smart home IOT application that records the coming and goings of family members from home using Bluetooth technology in conjunction with the raspberry pi. 
 It began with the concept of using fibit watches along with mobile phone devices but after many many hours of fruitless testing, it was discovered that the Bluetooth capability of the fitbit watch was unreliable for this project given the timeframe in which it had to be completed. (but is an avenue that cold be explored in future!)
 A dbserver and webserver were installed on the raspberry pi and a database was set up to include a table that stored the mac addresses and details of both my phone and my wife Daire’s phone. This database also included a table that stored details of ins and outs of the home.
